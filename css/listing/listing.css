@@ -1,0 +1,94 @@
+body{
+    margin:auto;
+}
+a{
+    text-decoration:none;
+}
+/*header css*/
+header{
+    height:60px;
+    width:100%;
+    background-color:rgb(219, 81, 81);
+}
+#icon{
+    float:left;
+}
+#social{
+    float:right;
+}
+.slogo{
+    height:50px;
+    width:50px;
+}
+/*search css*/
+.headingtext{
+    text-align:center;
+    font-size: 30px;
+    font-weight: bold;
+}
+#content{
+    width: 80%;
+    display: inline-block;
+    margin-left: 10%;
+}
+.filterdiv{
+    height:500px;
+    width: 20%;
+    border: 4px groove;
+    float: left;
+}
+h1{
+    margin-left: 30%;
+}
+h3{
+    margin-left: 5%;
+}
+.contentdiv{
+    height:800px;
+    width:77%;
+    margin-left: 2%;
+    background-color: black;
+    float: left;
+}
+.container1{
+    height:150px;
+    width: 70%;
+    margin-left: 2%;
+    margin-top: 2%;
+    box-shadow: 10px 10px 10px gray;  
+}
+.concon{
+    margin-top:4%;
+    font-size: 20px;
+    color:rgb(174, 94, 94);
+}
+h2{
+    color:green;
+}
+.imgcon>img{
+    height:150px;
+    width:40%;
+    float: left;
+}
+
+
+/*footer css*/
+footer{
+    height:120px;
+    width:100%;
+    margin-top: 2%;
+    background-color: rgb(206, 137, 137);
+}
+#footertext{
+    text-align: center;
+}
+.footdiv{
+    height: 70px;
+    width: 30%;
+    float: left;
+    border-right: 2px solid black;
+    text-align: center;
+}
+.noborder{
+    border:none;
+}

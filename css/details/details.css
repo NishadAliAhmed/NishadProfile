@@ -1,0 +1,85 @@
+body{
+    margin:auto;
+}
+a{
+    text-decoration:none;
+}
+/*header css*/
+header{
+    height:60px;
+    width:100%;
+    background-color:rgb(219, 81, 81);
+}
+#icon{
+    float:left;
+}
+#social{
+    float:right;
+}
+.slogo{
+    height:50px;
+    width:50px;
+}
+/*search css*/
+.headingtext{
+    text-align:center;
+    font-size: 30px;
+    font-weight: bold;
+}
+#content{
+    height:500px;
+    width:80%;
+    display: inline-block;
+    margin-left: 15%;
+    margin-top: 2%;
+}
+#imgdiv{
+    height:400px;
+    width: 45%;
+    float:left;
+    border: 8px groove gray;
+}
+#contentdiv{
+    height:400px;
+    width: 35%;
+    margin-left: 3%;
+    margin-top: -2%;
+    float:left;
+}
+.checked{
+    color: green;
+}
+#imgdiv>img{
+    height:400px;
+    width:100%;
+}
+#snackic>img{
+    height:100px;
+    width:100px;
+}
+h2{
+    color:green;
+}
+button{
+    color:gray;
+}
+/*footer css*/
+footer{
+    height:120px;
+    width:100%;
+    margin-top: 2%;
+    background-color: rgb(206, 137, 137);
+}
+#footertext{
+    text-align: center;
+}
+.footdiv{
+    height: 70px;
+    width: 30%;
+    float: left;
+    border-right: 2px solid black;
+    text-align: center;
+}
+.noborder{
+    border:none;
+}

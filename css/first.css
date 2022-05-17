@@ -29,6 +29,17 @@ h2{
     color:black;
     float:left;
     margin-left:2%;
+    
+}
+
+.imgdiv{
+    height:200px;
+    width:100%;
+}
+
+.textdiv{
+    height:200px;
+    width:100%;
     overflow:scroll
 }
 
