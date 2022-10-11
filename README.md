@@ -2,10 +2,10 @@
 [![Linkedin](https://www.linkedin.com/in/nishad-ali-ahmed-b-653948150/)
 
 I'm
-Full Stack Solution Architect
+Full Stack Web Developer
 The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. 
-I have a wide range of skills that include back-end development using open source technologies (NodeJs) 
-front-end development (React, ReactJs, HTML5, CSS3, Javascript,database(Mysql)
+I have a wide range of skills that include back-end development using open source technologies (NodeJs,Express) 
+front-end development (ReactJs, HTML5, CSS3, Javascript,database(MongoDB)
 
 
 <!--
